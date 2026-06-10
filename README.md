@@ -10,3 +10,8 @@ The piece engages ideas about the breakdown of the boundary between organism and
 ## Methodology
 The sculpture combines digital fabrication and physical computing within a single pedestal-mounted unit. A linear actuator connected to an Arduino Uno sits inside a wooden box. An ultrasonic proximity sensor mounted on the front face of the box detects audience distance continuously. When a visitor enters the sensing threshold, the Arduino signals the motor to extend slowly, pressing the 3D-printed hand against and through the silicone textured skin. The hand holds at full extension before retracting when the visitor steps away.
 The 3D-printed hand was modeled and printed at The 8 makerspace and mounted to the actuator rod so that its contour pushes legibly through the stretched skin rather than puncturing it, creating an impression and a presence rather than a rupture. 
+
+## Documentation
+### Video Links
+https://drive.google.com/file/d/1YQlzFe2ryPQzU_cyDAnpG6C0QwP5-F8t/view?usp=sharing
+https://drive.google.com/file/d/1QhlRH4TkRlLdJj6Fy-OTUIIw3OxnTc4K/view?usp=sharing
