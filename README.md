@@ -1,12 +1,12 @@
 # DXARTS472-Final-Project-Stella
-##Project Description
+## Project Description
 Second Skin is a mechatronic sculpture presented on a pedestal. Beneath a stretched membrane of kombucha leather, a material grown through fermentation that hovers between the living and the manufactured, lies a single 3D-printed hand. When a visitor enters the sensing zone in front of the piece, a proximity sensor triggers a linear actuator that slowly pushes the hand outward through the skin, as if something underneath is straining to surface. When the visitor steps away, the hand sinks back beneath the membrane. The sculpture breathes with the audience. It needs them there to wake up.
 The hand reaches and grasps, a gesture loaded with intention, recognition, and demand. It reads as a body reduced to its most communicative fragment: present, purposeful, and waiting just below a surface that was once alive.
 
-##Concept
+## Concept
 Second Skin sits at the intersection of the Anthropocene, posthumanism, and the non-human body. It asks what happens when the biological is harvested, copied, and kept in a kind of suspended wanting. The silicone skin is not incidental. It was cultivated from a living culture, and what pushes through it is entirely synthetic. That tension is the work. The visitor's body becomes the activating force: their proximity is the condition under which the synthetic form comes alive, as if biological presence is still needed to authorize the artificial.
 The piece engages ideas about the breakdown of the boundary between organism and machine, extending them into something visceral and directional. This is not a cyborg built for function. It is a fragment of a body that seems to want to emerge, to reach, to be close to something living. The hand carries this weight particularly well. Of all gestures, the reach is the most legible. It crosses distance. It asks for contact. In Second Skin, it does this on its own terms, woken only by the presence of a nearby body.
 
-##Methodology
+## Methodology
 The sculpture combines digital fabrication and physical computing within a single pedestal-mounted unit. A linear actuator connected to an Arduino Uno sits inside a wooden box. An ultrasonic proximity sensor mounted on the front face of the box detects audience distance continuously. When a visitor enters the sensing threshold, the Arduino signals the motor to extend slowly, pressing the 3D-printed hand against and through the silicone textured skin. The hand holds at full extension before retracting when the visitor steps away.
 The 3D-printed hand was modeled and printed at The 8 makerspace and mounted to the actuator rod so that its contour pushes legibly through the stretched skin rather than puncturing it, creating an impression and a presence rather than a rupture. 
