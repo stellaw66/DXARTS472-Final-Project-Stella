@@ -12,6 +12,6 @@ The sculpture combines digital fabrication and physical computing within a singl
 The 3D-printed hand was modeled and printed at The 8 makerspace and mounted to the actuator rod so that its contour pushes legibly through the stretched skin rather than puncturing it, creating an impression and a presence rather than a rupture. 
 
 ## Documentation
-### Video Links
+### Video Links:
 https://drive.google.com/file/d/1YQlzFe2ryPQzU_cyDAnpG6C0QwP5-F8t/view?usp=sharing
 https://drive.google.com/file/d/1QhlRH4TkRlLdJj6Fy-OTUIIw3OxnTc4K/view?usp=sharing
